@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  margin: 10em auto;
+  width: 60%;
+  justify-content: space-between;
+}
+.list {
+  padding: 1em;
+  border: solid 0.3em black;
+  border-radius: 0.5em;
+  width: 11.6em;
+  height: 25em;
+}
